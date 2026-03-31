@@ -34,3 +34,30 @@
 [submodule "Travel-Configuration"]
 	path = Travel-Configuration
 	url = https://github.com/nadun-sankalpa/Travel-Configuration.git
+[submodule "Tourism-Configuration"]
+	path = Tourism-Configuration
+	url = https://github.com/Dinithilakshani/Tourism-Configuration.git
+[submodule "Tourism-Platform-Api-Gateway"]
+	path = Tourism-Platform-Api-Gateway
+	url = https://github.com/Dinithilakshani/Tourism-Platform-Api-Gateway.git
+[submodule "Tourism-Platform-Config-Server"]
+	path = Tourism-Platform-Config-Server
+	url = https://github.com/Dinithilakshani/Tourism-Platform-Config-Server.git
+[submodule "Tourism-Platform-Service-Registry"]
+	path = Tourism-Platform-Service-Registry
+	url = https://github.com/Dinithilakshani/Tourism-Platform-Service-Registry.git
+[submodule "Tourism-Service-Enrollment"]
+	path = Tourism-Service-Enrollment
+	url = https://github.com/Dinithilakshani/Tourism-Service-Enrollment.git
+[submodule "Tourism-Service-Program"]
+	path = Tourism-Service-Program
+	url = https://github.com/Dinithilakshani/Tourism-Service-Program.git
+[submodule "Tourism-Services"]
+	path = Tourism-Services
+	url = https://github.com/Dinithilakshani/Tourism-Services.git
+[submodule "Tourism-Service-Student"]
+	path = Tourism-Service-Student
+	url = https://github.com/Dinithilakshani/Tourism-Service-Student.git
+[submodule "Tourism-Web-App"]
+	path = Tourism-Web-App
+	url = https://github.com/Dinithilakshani/Tourism-Web-App.git
