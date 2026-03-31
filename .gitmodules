@@ -1,0 +1,36 @@
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/ITS-2130-ECA-HDSE-69-70/Capstone-Project-Platform-Service-Registry.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/ITS-2130-ECA-HDSE-69-70/Capstone-Project-Platform-Api-Gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/ITS-2130-ECA-HDSE-69-70/Capstone-Project-Platform-Config-Server.git
+[submodule "Travel-Webapp"]
+	path = Travel-Webapp
+	url = https://github.com/nadun-sankalpa/Travel-Webapp.git
+[submodule "Travel-Service-Student"]
+	path = Travel-Service-Student
+	url = https://github.com/nadun-sankalpa/Travel-Service-Student.git
+[submodule "Travel-Services"]
+	path = Travel-Services
+	url = https://github.com/nadun-sankalpa/Travel-Services.git
+[submodule "Travel-Service-Program"]
+	path = Travel-Service-Program
+	url = https://github.com/nadun-sankalpa/Travel-Service-Program.git
+[submodule "Travel-Service-Enrollment"]
+	path = Travel-Service-Enrollment
+	url = https://github.com/nadun-sankalpa/Travel-Service-Enrollment.git
+[submodule "Travel-Platform-Service-Registry"]
+	path = Travel-Platform-Service-Registry
+	url = https://github.com/nadun-sankalpa/Travel-Platform-Service-Registry.git
+[submodule "Travel-Platform-Config-Server"]
+	path = Travel-Platform-Config-Server
+	url = https://github.com/nadun-sankalpa/Travel-Platform-Config-Server.git
+[submodule "Travel-Platform-Api-Gateway"]
+	path = Travel-Platform-Api-Gateway
+	url = https://github.com/nadun-sankalpa/Travel-Platform-Api-Gateway.git
+[submodule "Travel-Configuration"]
+	path = Travel-Configuration
+	url = https://github.com/nadun-sankalpa/Travel-Configuration.git
